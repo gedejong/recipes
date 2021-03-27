@@ -1,0 +1,33 @@
+baseURL: "http://example.org/"
+languageCode: "en-us"
+title: "My New Hugo Site"
+theme: "gochowdown"
+params:
+  author: John Doe
+  description: Recipes used by the Doe family
+  keywords: 'recipes'
+  favicon_32: /images/favicon-32x32.png
+  favicon_16: /images/favicon-16x16.png
+  footercontent:
+  hidecredits: true
+  hidecopyright: true
+  showNavTitle: false            # Boolean: show site title in nav bar
+menu:
+  main:
+    - name: Home
+      weight: 1
+      url: /
+    - name: Category
+      weight: 2
+      url: /category/
+    - name: Cuisine
+      weight: 3
+      url: /cuisine/
+    - name: Tags
+      weight: 4
+      url: /tags/
+taxonomies:
+  category: category
+  cusine: cuisine
+  tag: tags
+
