@@ -9,7 +9,7 @@ authorName: Edwin de Jong # Name of the recipe/article author
 authorURL: # URL of their home website
 sourceName: Allerhande # Name of the source website
 sourceURL: https://www.ah.nl/allerhande/recept/R-R1194918/sticky-tofu-met-groente-en-rijst # Actual URL of the recipe itself
-category: Vegetarian # The type of meal or course your recipe is about. For example: "dinner", "entree", or "dessert".
+category: Main # The type of meal or course your recipe is about. For example: "dinner", "entree", or "dessert".
 cuisine: Japan # The region associated with your recipe. For example, "French", Mediterranean", or "American".
 tags: # You don't have to have 3, feel free to have 10, 1, or none
   - vegetarian

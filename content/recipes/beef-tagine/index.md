@@ -9,7 +9,7 @@ authorName: Jamie Oliver
 authorURL: https://jamieoliver.com # URL of their home website
 sourceName: Beef Tagine
 sourceURL: https://www.jamieoliver.com/recipes/beef-recipes/beef-tagine/
-category: Main Dish
+category: Main
 cuisine: Maroccan
 tags: # You don't have to have 3, feel free to have 10, 1, or none
   - marocco
