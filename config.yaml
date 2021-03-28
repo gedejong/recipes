@@ -1,17 +1,19 @@
-baseURL: "http://example.org/"
+baseURL: "https://dejongsoftwareengineering.nl"
 languageCode: "en-us"
-title: "My New Hugo Site"
+title: "Recipes loved by our family"
 theme: "gochowdown"
 params:
-  author: John Doe
-  description: Recipes used by the Doe family
+  author: Edwin de Jong
+  description: Recipes loved by our family
   keywords: 'recipes'
   favicon_32: /images/favicon-32x32.png
   favicon_16: /images/favicon-16x16.png
   footercontent:
-  hidecredits: true
-  hidecopyright: true
+  hidecredits: false
+  hidecopyright: false
   showNavTitle: false            # Boolean: show site title in nav bar
+  custom_css:
+    - style.css
 menu:
   main:
     - name: Home
