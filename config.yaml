@@ -2,6 +2,13 @@ baseURL: "https://dejongsoftwareengineering.nl"
 languageCode: "en-us"
 title: "Recipes loved by our family"
 theme: "gochowdown"
+author:
+  name: Edwin de Jong
+copyright: Edwin de Jong
+enableRobotsTXT: true
+googleAnalytics: G-G20FB7TKMF
+GoogleAnalytics: G-G20FB7TKMF
+
 params:
   author: Edwin de Jong
   description: Recipes loved by our family
