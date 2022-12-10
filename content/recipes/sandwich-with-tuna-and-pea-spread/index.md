@@ -29,8 +29,8 @@ ingredients:
 
 directions:
 - Preheat the oven to 200 °C and bake the bread rolls according to the instructions on the package. 
-- Meanwhile, put the garden peas in a bowl and pour the boiling water over them. Let stand for 5 min and drain.
-- Meanwhile, scrub clean the lemon, grate the yellow rind and juice the fruit. Finely chop the chives. 
-- Puree three quarters of the chives together with the garden peas, oil, 1 tsp lemon zest (per 4 people) and 1½ tbsp lemon juice (per 4 people) in a high cup with a hand blender until you have a smooth spread. Season with pepper and salt, if desired. Drain the can of tuna.
+- Put the garden peas in a bowl and pour the boiling water over them. Let stand for 5 min and drain.
+- Scrub clean the lemon, grate the yellow rind and juice the fruit. Finely chop the chives. 
+- Purée three quarters of the chives together with the garden peas, oil, 1 tsp lemon zest (per 4 people) and 1½ tbsp lemon juice (per 4 people) in a high cup with a hand blender until you have a smooth spread. Season with pepper and salt, if desired. Drain the can of tuna.
 - Cut open the buns, generously spread the bottoms with the garden pea spread and divide the tuna on top. Sprinkle with the remaining chives and season with freshly ground pepper. Cover with the tops of the rolls.
 ---
